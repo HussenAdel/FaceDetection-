@@ -77,7 +77,7 @@ x_train=np.array(x_train)
 x_test=np.array(x_test)
 y_test=np.array(y_test)
 
-"""# PCA"""
+"""# PCA """
 
 #Project the training set, and test sets separately using the same projection matrix.
 #using a function for reuse
